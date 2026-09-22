@@ -5,7 +5,7 @@
 > *Busco transformar problemas em soluções que gerem valor, conectando visão estratégica, tecnologia e foco no usuário.*
 
 ---
-
+ 
 ## 🚀 Sobre mim
 
 Sou estudante de **Gestão de Tecnologia da Informação** e profissional com experiência em **Gestão de Produtos Digitais**, atuando como **Product Owner** em contextos de tecnologia e negócios.
