@@ -152,5 +152,9 @@ Tenho interesse em utilizar **Inteligência Artificial como copiloto de Product 
 Estou aberta a oportunidades e conexões relacionadas a **Product Owner, Produto Digital, Tecnologia e inovação**.
 
 🔗 **[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasilvademelo)**
-📧 **[E-mail](jessimozart@gmail.com)**
+
+## 📫 Contato
+
+📧 [E-mail](mailto:jessimozart@gmail.com) — Entre em contato para oportunidades profissionais.
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jessimozart)
