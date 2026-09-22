@@ -90,7 +90,7 @@ Projeto de produto desenvolvido com abordagem **Scrum**, envolvendo definição 
 
 👉 **[Ver projeto TechFlow](https://github.com/Jessimozart/techflow)**
 
-### 🚀 TradeUp | Claro Online
+### 🚀 TradeUp | Claro Case
 
 Case de experiência profissional como **Product Owner** em um produto digital voltado à venda de produtos Claro.
 
