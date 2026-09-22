@@ -11,7 +11,7 @@
 Sou estudante de **Gestão de Tecnologia da Informação** e profissional com experiência em **Gestão de Produtos Digitais**, atuando como **Product Owner** em contextos de tecnologia e negócios.
 
 Minha trajetória me permitiu desenvolver uma visão estratégica, conectando **necessidades dos usuários, objetivos do negócio e tecnologia** para estruturar e evoluir produtos e soluções.
-
+ 
 Tenho experiência em **Product Discovery, jornada do usuário, gestão e priorização de backlog, User Stories, critérios de aceitação, requisitos, metodologias ágeis, análise de dados e melhoria de processos**.
 
 ---
