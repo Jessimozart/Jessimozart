@@ -1,52 +1,156 @@
-# 👋Olá, eu sou a Jéssica! 
-### Product Owner | Estudante de Gestão de Tecnologia da Informação 
+# 👋 Olá, eu sou a Jéssica!
 
-> *Busco transformar problemas em soluções que geram valor, unindo visão estratégica, inovação e foco no usuário.
->
----
+### Product Owner | Estudante de Gestão de Tecnologia da Informação
 
-:rocket:Sobre mim 
-
-Sou estudante de Gestão de Tecnologia da Informação e profissional com experiência em Gestão de Produtos Digitais, atuando como Product Owner em tecnologia e negócios.
-Minha tragetória me permitiu desenvolver uma visão estratégica, conectando as necessidades dos usuários e os objetivos do negócio. 
-
-Possuo conhecimento em: 
-- **Discovery:** mapeamento da jornada do usuário.
-- **Backlog:** gestão e priorização de backlog, histórias de usuário, 
-- **Metodologias:** ágeis Scrum e Kanban, melhoria dos processos, indicadores de resultados.
-- **Ferramentas**: Jira, Notion, Figma, Miro, Excel, My SQL, SQL e integrações via API.
-
-## 🧠 Competências 
-- **Gestão de Produtos:** discovery, gerenciamento de backlog, mapeamento de jornada de usuário, escrita de histórias de usuário, requisitos e critérios de aceite.
-- **Cultura ágil:** Scrum, Kanban e Sprint Planning.
-- **Dados:** métricas de produto, análise de comportamento, análise de dados, Excel, SQL, MySQL e APIs.
-- **Ferramentas:** Jira, Notion, Miro, Figma e GitHub.
-- **Comportamentais:** comunicação clara e assertiva, escuta ativa, pensamento analítico e visão estratégica, resolução de problemas, ética, empatia e foco, organização e aprendizado contínuo. 
-
-## 🗃️ Experiências
-
-### 🏪 Aquino - *Product Owner*
-Atuei na gestão de processos e operações, discovery de produto, análise de comportamento dos clientes, experiência do cliente. Identifiquei oportunidades e melhorias no negócio, ajudando a loja se consolidar no mercado. Sou responsável pela gestão de stakeholders e da equipe operacional, conectando as necessidades dos clientes e oportunidades de crescimento do negócio.
-
-### 📱 TradeUP Group - *Product Owner* 
-Atuei na evolução de produtos digitais, gestão e priorização de backlog, escrita de história de usuário, mapeamento e melhoria na jornada do usuário, gestão de equipes multidiciplinares como desenvolvimento, UX, QA e stakeholders. Implementei a cultura ágil, melhorando a organização e a agilidade das entregas. Uma das minhas iniciativas envolveu a simplificação da jornada do cliente na contratação de um produto digital, reduzindo informações pessoais solicitadas ao usuário, o que gerou um aumento significativo nas vendas de produtos digitais. Participei do acompanhamento de problemas relacionados a integrações via API. 
-
-### ⚙️ Rolimtrac - *Product Owner* 
-Projeto de discovery e estruturação de canais digitais, onde fui responsável pela pesquisa e mapeamento da jornada do usuário, organização e padronização de produtos para venda online e estruturação de canais de vendas. Os resultados foram significativos em vendas por whatsApp (+30%), site (+15%) e vendas presenciais (+25%). Implementei o Kanban para melhoria na organização dos processos internos e entendimento das equipes, resultando em melhor organização.
-
-### 🐶 Meu Filhote Pet Shop - *Gestão de Produto e Negócio* 
-Fui responsável pela gestão de equipes e processos, experiência do cliente e estruturação de serviços. Mapeamento e análise do comportamento dos clientes e suas necessidades. Identificação de oportunidades e mapeamento do crescimento do negócio. 
+> *Busco transformar problemas em soluções que gerem valor, conectando visão estratégica, tecnologia e foco no usuário.*
 
 ---
 
-## 📚 Atualmente estudando 
-- 🎓 **Gestão de Tecnologia da Informação** - *Faculdade Cruzeiro do Sul*
-- 🤖**Excel com Inteligência Artificial e Claude** - *Bootcamp Santander*
+## 🚀 Sobre mim
 
-## 🎯Objetivo 
-Busco crescer profissionalmente como **Product Owner**, ampliando meus conhecimentos e minha atuação no mercado digital. Melhorando minha capacidade estratégica e de gestão, colaborando com as equipes, mantendo uma escuta ativa, comunicação assertiva, clara e empática. Dessa forma contribuo para o desenvolvimento de produtos digitais que resolvam problemas e dores reais, proporcionando boas experiências aos usuários e crescimento do negócio. 
+Sou estudante de **Gestão de Tecnologia da Informação** e profissional com experiência em **Gestão de Produtos Digitais**, atuando como **Product Owner** em contextos de tecnologia e negócios.
 
-## 🌐 Conecte-se comigo!
+Minha trajetória me permitiu desenvolver uma visão estratégica, conectando **necessidades dos usuários, objetivos do negócio e tecnologia** para estruturar e evoluir produtos e soluções.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasilvademelo)
+Tenho experiência em **Product Discovery, jornada do usuário, gestão e priorização de backlog, User Stories, critérios de aceitação, requisitos, metodologias ágeis, análise de dados e melhoria de processos**.
+
+---
+
+## 🧠 Competências
+
+### 🎯 Produto e Discovery
+
+- **Product Discovery:** identificação de problemas, necessidades e oportunidades.
+- **Jornada do usuário:** mapeamento de jornadas, dores e oportunidades de melhoria.
+- **Pesquisa com usuários:** entrevistas, levantamento de feedbacks e identificação de necessidades.
+- **Personas e hipóteses:** estruturação e validação de hipóteses de produto.
+- **Proposta de valor:** conexão entre necessidades do usuário e objetivos do negócio.
+- **MVP:** definição e priorização de funcionalidades para validação de soluções.
+
+### 📋 Gestão de Produto
+
+- **Product Backlog:** criação, organização, priorização e refinamento.
+- **User Stories:** escrita de histórias de usuário e critérios de aceitação.
+- **Requisitos:** levantamento, análise e documentação.
+- **PRD:** estruturação de documentos de requisitos de produto.
+- **Roadmap:** organização e acompanhamento da evolução do produto.
+- **Stakeholders:** alinhamento entre negócio, tecnologia, UX/UI e demais áreas envolvidas.
+- **Priorização:** análise de valor, necessidades do usuário e objetivos do negócio.
+
+### 🔄 Agilidade e Processos
+
+- **Scrum:** Sprint Planning, Daily, Review, Retrospective e Refinement.
+- **Kanban:** organização do fluxo de trabalho e acompanhamento de demandas.
+- **Melhoria contínua:** identificação de gargalos e oportunidades de otimização.
+- **Processos:** mapeamento, análise e estruturação de fluxos.
+- **BPMN:** modelagem e documentação de processos.
+- **Indicadores:** acompanhamento de KPIs e resultados.
+
+### 📊 Dados e Tecnologia
+
+- **Excel:** análise de dados, indicadores, dashboards e automações.
+- **SQL / MySQL:** consultas e análise de dados para apoio à tomada de decisão.
+- **Métricas:** acompanhamento de indicadores de produto e negócio.
+- **APIs:** entendimento de integrações e fluxos de comunicação entre sistemas.
+- **Integrações:** acompanhamento de mudanças, validações e impactos no produto.
+- **HTML:** conhecimentos básicos para compreensão de interfaces e tecnologia.
+
+### 🛠️ Ferramentas
+
+- Jira
+- Azure DevOps
+- Notion
+- Figma
+- Miro
+- Excel
+- MySQL Workbench
+- GitHub
+
+### 🤝 Competências comportamentais
+
+- Comunicação clara e assertiva
+- Escuta ativa
+- Pensamento analítico
+- Visão estratégica
+- Resolução de problemas
+- Organização
+- Empatia
+- Ética
+- Aprendizagem contínua
+
+---
+
+## 📂 Projetos em destaque
+
+Aqui compartilho projetos e cases que representam minha experiência prática e meu desenvolvimento em **Produto, Tecnologia, Agilidade, Dados e Experiência do Usuário**.
+
+### 💻 TechFlow
+
+Projeto de produto desenvolvido com abordagem **Scrum**, envolvendo definição do problema, visão da solução, Product Backlog, User Stories, critérios de aceitação, planejamento de Sprint e auditoria de práticas ágeis.
+
+👉 **[Ver projeto TechFlow](LINK_DO_PROJETO)**
+
+### 🚀 TradeUp | Claro Online
+
+Case de experiência profissional como **Product Owner** em um produto digital voltado à venda de produtos Claro.
+
+Atuação em **Discovery, jornada do usuário, backlog, User Stories, critérios de aceitação, PRDs, Scrum, roadmap, stakeholders, validação de soluções e integrações via API**.
+
+👉 **[Ver case TradeUp / Claro Online](LINK_DO_PROJETO)**
+
+### 📈 Rolimtrac
+
+Case de produto com foco em **Discovery, experiência do usuário e melhoria de resultados comerciais**.
+
+O trabalho envolveu pesquisa, análise de problemas, jornada do usuário, organização de produtos, backlog, User Stories, prototipação e automação de atendimento.
+
+👉 **[Ver case Rolimtrac](LINK_DO_PROJETO)**
+
+### 🐾 Aquino | Projeto de Produto
+
+Case desenvolvido a partir de **pesquisa com usuários, análise de concorrência, personas, jornada do cliente, proposta de valor, hipóteses e estruturação de backlog**.
+
+👉 **[Ver projeto Aquino](LINK_DO_PROJETO)**
+
+---
+
+## 🎓 Formação e desenvolvimento
+
+🎓 **Gestão de Tecnologia da Informação** — em andamento
+
+📚 Atualmente desenvolvendo conhecimentos em:
+
+- Product Management
+- Product Ownership
+- Product Discovery
+- Scrum e metodologias ágeis
+- UX e experiência do usuário
+- SQL e análise de dados
+- Métricas de Produto
+- Inteligência Artificial aplicada a Produto
+- Excel e análise de dados
+
+---
+
+## 🤖 Tecnologia e Inteligência Artificial
+
+Tenho interesse em utilizar **Inteligência Artificial como copiloto de Product Owner**, apoiando atividades como:
+
+- Discovery e levantamento de hipóteses
+- Análise e organização de informações
+- Criação e refinamento de User Stories
+- Critérios de aceitação
+- Documentação de produto
+- Análise de dados
+- Pesquisa e síntese de informações
+- Organização e priorização de backlog
+
+---
+
+## 📫 Vamos nos conectar?
+
+Estou aberta a oportunidades e conexões relacionadas a **Product Owner, Produto Digital, Tecnologia e inovação**.
+
+🔗 **[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasilvademelo)**
+📧 **[E-mail](jessimozart@gmail.com)**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jessimozart)
