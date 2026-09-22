@@ -88,7 +88,7 @@ Aqui compartilho projetos e cases que representam minha experiência prática e 
 
 Projeto de produto desenvolvido com abordagem **Scrum**, envolvendo definição do problema, visão da solução, Product Backlog, User Stories, critérios de aceitação, planejamento de Sprint e auditoria de práticas ágeis.
 
-👉 **[Ver projeto TechFlow](LINK_DO_PROJETO)**
+👉 **[Ver projeto TechFlow](https://github.com/Jessimozart/techflow)**
 
 ### 🚀 TradeUp | Claro Online
 
