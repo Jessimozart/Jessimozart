@@ -96,7 +96,7 @@ Case de experiência profissional como **Product Owner** em um produto digital v
 
 Atuação em **Discovery, jornada do usuário, backlog, User Stories, critérios de aceitação, PRDs, Scrum, roadmap, stakeholders, validação de soluções e integrações via API**.
 
-👉 **[Ver case TradeUp / Claro Online](LINK_DO_PROJETO)**
+👉 **[Ver Case TradeUp / Claro](LINK_DO_PROJETO)**
 
 ### 📈 Rolimtrac
 
