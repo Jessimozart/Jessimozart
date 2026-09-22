@@ -104,7 +104,7 @@ Case de produto com foco em **Discovery, experiência do usuário e melhoria de 
 
 O trabalho envolveu pesquisa, análise de problemas, jornada do usuário, organização de produtos, backlog, User Stories, prototipação e automação de atendimento.
 
-👉 **[Ver case Rolimtrac](LINK_DO_PROJETO)**
+👉 **[Ver case Rolimtrac](https://github.com/Jessimozart/rolimtrac-product-case)**
 
 ### 🐾 Aquino | Projeto de Produto
 
